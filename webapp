@@ -4,4 +4,8 @@ function1()
 {
 initialcode
 }
+function2()
+{
+feature-C code
+}
 }
