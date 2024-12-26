@@ -8,4 +8,8 @@ function2()
 {
 feature-C code
 }
+function3()
+{
+feature-D code
+}
 }
